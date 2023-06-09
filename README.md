@@ -3,7 +3,7 @@
 
 <div style="display: inline_block;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMatheusLamao&show_icons=true&theme=monokai&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMatheusLamao&layout=compact&langs_count=7&theme=monokai&count_private=true&hide=hack,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMatheusLamao&layout=compact&langs_count=7&theme=monokai&count_private=true&hide=hack, css"/>
 </div>
 
 ## Atualmente, estas são as tecnologias que trabalho:
