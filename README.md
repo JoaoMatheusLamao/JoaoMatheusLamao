@@ -16,4 +16,4 @@
   <img align="center" alt="João-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-![gif](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/83a6da09-912e-4b95-a340-db2e0d08f82d)
+![gif](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/16791aac-3185-4539-808e-24fbc58f947a)
