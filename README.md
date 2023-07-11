@@ -2,8 +2,8 @@
 ### Eu sou o João Matheus Lamão!!!
 
 <div style="display: inline_block;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMatheusLamao&show_icons=true&theme=monokai&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMatheusLamao&layout=compact&langs_count=7&theme=monokai&count_private=true&hide=roff,hack"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMatheusLamao&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMatheusLamao&layout=compact&langs_count=7&theme=github_dark&count_private=true&hide=roff,hack"/>
 </div>
 
 ## Atualmente, estas são as tecnologias que trabalho:
@@ -18,7 +18,7 @@
 </div>
 
 ## Estes são os principais projetos que trabalhei:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=MoreMath&theme=onedark)](https://github.com/JoaoMatheusLamao/MoreMath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=Aval360-1Sem2023&theme=onedark)](https://github.com/JoaoMatheusLamao/Aval360-1Sem2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=MoreMath&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/MoreMath)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=Aval360-1Sem2023&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/Aval360-1Sem2023)
 
 ![gif](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/16791aac-3185-4539-808e-24fbc58f947a)
