@@ -21,4 +21,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=MoreMath&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/MoreMath)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=Aval360-1Sem2023&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/Aval360-1Sem2023)
 
+## Formações acadêmicas:
+02/2023 - 12/2025 <br>
+Curso Superior Tecnológico em Banco de Dados, <br>
+FATEC Prof. Jessen Vidal, São José dos Campos – SP (noturno); <br>
+<hr width=30%>
+02/2020 - 12/2022 <br>
+Ensino Médio Integrado ao Técnico em Desenvolvimento de Sistemas,<br>
+ETEC Machado de Assis, Caçapava – SP;<br>
+
 ![gif](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/16791aac-3185-4539-808e-24fbc58f947a)
