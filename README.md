@@ -21,4 +21,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=MoreMath&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/MoreMath)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=Aval360-1Sem2023&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/Aval360-1Sem2023)
 
-![gif](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/16791aac-3185-4539-808e-24fbc58f947a)
+
+![github-user-contribution](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/d0bbdebc-9a4f-4977-85c4-8ff9f2144e1c)
