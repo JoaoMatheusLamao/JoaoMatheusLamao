@@ -2,7 +2,6 @@
 ### Eu sou o João Matheus Lamão!!!
 
 <div style="display: inline_block;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMatheusLamao&show_icons=true&theme=github_dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMatheusLamao&layout=compact&langs_count=7&theme=github_dark&count_private=true&hide=roff,hack"/>
 </div>
 
@@ -16,10 +15,6 @@
   <img align="center" alt="João-php" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="João-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-## Estes são os principais projetos que trabalhei:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=MoreMath&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/MoreMath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoMatheusLamao&repo=Aval360-1Sem2023&theme=github_dark_dimmed)](https://github.com/JoaoMatheusLamao/Aval360-1Sem2023)
 
 
 ![github-user-contribution](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/d0bbdebc-9a4f-4977-85c4-8ff9f2144e1c)
