@@ -18,6 +18,3 @@
   <img align="center" alt="João-php" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="João-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-
-![github-user-contribution](https://github.com/JoaoMatheusLamao/JoaoMatheusLamao/assets/77554165/d0bbdebc-9a4f-4977-85c4-8ff9f2144e1c)
