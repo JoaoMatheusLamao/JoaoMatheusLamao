@@ -2,7 +2,7 @@
 ### Eu sou o João Matheus Lamão!!!
 
 <div style="display: inline_block;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMatheusLamao&layout=compact&langs_count=7&theme=github_dark&count_private=true&hide=roff,hack"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMatheusLamao&layout=compact&langs_count=7&theme=github_dark&count_private=true&hide=roff,hack,css"/>
 </div>
 
 ## Atualmente, estas são as tecnologias que estudo:
